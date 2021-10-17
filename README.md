@@ -4,13 +4,14 @@ Proyecto para Fundamentos de Ingeniería de Software.
 ## Equipo
 💎Mario Arturo Manzanero Casanova
 
-🔷Andres de Jesús Turriza Euan
+🔷Andres de Jesús Turriza Euan [@AndyTue](https://github.com/AndyTue "Click Aquí")
+
 
 🔷Luis Javier Quintana Olivera
 
 🔷Ángel Adrián Chan Puc
 
-🔷Abner Iván Alvarado Castilla
+🔷Abner Iván Alvarado Castilla [@AbnerIvanAlvaradoCastilla](https://github.com/AbnerIvanAlvaradoCastilla "Click Aquí")
 
 🔷Jesus Oswaldo Chan Uicab
 
