@@ -3,12 +3,12 @@ Proyecto para Fundamentos de Ingeniería de Software.
 
 ## Equipo
 
->💎Mario Arturo Manzanero Casanova
->🔷Andres de Jesús Turriza Euan
->🔷Luis Javier Quintana Olivera
->🔷Ángel Adrián Chan Puc
->🔷Abner Iván Alvarado Castilla
->🔷Jesus Oswaldo Chan Uicab
+> -💎Mario Arturo Manzanero Casanova
+> -🔷Andres de Jesús Turriza Euan
+> -🔷Luis Javier Quintana Olivera
+> -🔷Ángel Adrián Chan Puc
+> -🔷Abner Iván Alvarado Castilla
+> -🔷Jesus Oswaldo Chan Uicab
 
 ## Descripción
 
