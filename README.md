@@ -2,7 +2,7 @@
 Proyecto para Fundamentos de Ingeniería de Software.
 
 ## Equipo
-💎Mario Arturo Manzanero Casanova
+💎Mario Arturo Manzanero Casanova [@Mario-Manzanero](https://github.com/Mario-Manzanero "Click Aquí")
 
 🔷Andres de Jesús Turriza Euan [@AndyTue](https://github.com/AndyTue "Click Aquí")
 
