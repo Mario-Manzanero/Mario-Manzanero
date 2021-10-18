@@ -22,5 +22,5 @@ Proyecto para Fundamentos de Ingeniería de Software.
 
 ## Bitacoras de las sesiones
 
-> - [16 de octubre del 2021]
+> - [16 de octubre del 2021] 
 > - [17 de octubre del 2021] 
