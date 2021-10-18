@@ -7,11 +7,11 @@ Proyecto para Fundamentos de Ingeniería de Software.
 🔷Andres de Jesús Turriza Euan [@AndyTue](https://github.com/AndyTue "Click Aquí")
 
 
-🔷Luis Javier Quintana Olivera
+🔷Luis Javier Quintana Olivera [@Luis-J-Quintana](https://github.com/AndyTue "Click Aquí") 
 
 🔷Ángel Adrián Chan Puc
 
-🔷Abner Iván Alvarado Castilla [@AbnerIvanAlvaradoCastilla](https://github.com/AbnerIvanAlvaradoCastilla "Click Aquí")
+🔷Abner Iván Alvarado Castilla [@AbnerIvanAlvaradoCastilla](https://github.com/Luis-J-Quintana "Click Aquí")
 
 🔷Jesus Oswaldo Chan Uicab
 
