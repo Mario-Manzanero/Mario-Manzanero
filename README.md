@@ -9,12 +9,12 @@ Proyecto para Fundamentos de Ingeniería de Software.
 
 🔷Luis Javier Quintana Olivera [@Luis-J-Quintana](https://github.com/AndyTue "Click Aquí") 
 
-🔷Ángel Adrián Chan Puc
+🔷Ángel Adrián Chan Puc [@AngelChan03](https://github.com/AngelChan03 "Click Aquí")
 
 🔷Abner Iván Alvarado Castilla [@AbnerIvanAlvaradoCastilla](https://github.com/Luis-J-Quintana "Click Aquí")
 
-🔷Jesus Oswaldo Chan Uicab
-
+🔷Jesus Oswaldo Chan Uicab [@Oswaldo-Chan](https://github.com/Oswaldo-Chan "Click Aquí")
+ 
 ## Descripción
 
 🔸 [Documentación](./)
