@@ -41,4 +41,22 @@ Más información
 > - Tendrá una sección para quejas o sugerencias ante fallos de la página o errores de la misma. El sitio web tendrá un apartado especificado donde los usuarios podrán escribir una queja o una sugerencia para el sitio. 
 > - El sitio web debe de funcionar correctamente con los recursos existentes. 
 
+## Requerimientos no funcionales
+### Atributos de calidad
 
+> - Usabilidad: personas que quieran obtener información sobre la ingeniería de software de manera rápida, confiable y 100% gratuita 
+> - Disponibilidad: Estará disponible en la web, pero únicamente será compatible con computadoras de escritorio y laptops. 
+> - Seguridad: nos preocupamos por nuestros usuarios, por lo que todos los datos que se proporcionen a la página no serán compartidos ni usados para ningún motivo externo. 
+> - Confiabilidad: la página web será hecha con los más altos estándares de calidad, lo que provocará que esta tenga una confiabilidad muy alta siguiendo los más altos estándares de calidad. 
+> - Mantenibilidad: será una plataforma creada con una metodología que hará que la mantenibilidad no tenga ningún problema para nuestros usuarios. 
+
+### Limitaciones
+
+Por motivos de ajustes de la programación, el sitio web únicamente está adaptado para los siguientes dispositivos: 
+> - Computadoras 
+> - Laptops 
+Ya que algunas de las funciones no están disponibles en dispositivos como: 
+> - Teléfonos celulares 
+> - Tabletas 
+> - Televisores inteligentes.  
+> - Consolas de videojuegos. 
