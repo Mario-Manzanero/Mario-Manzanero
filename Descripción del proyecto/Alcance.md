@@ -35,8 +35,12 @@ Restricciones:
 
 Más información
 
-
-
+> - La página tendrá información oficial de la UADY. La información que se mostrará en la página web será extraída de la página oficial de la UADY. 
+> - Tendrá links para acceder más rápido a la plataforma UADY. Los links son sacados de la página oficial de la UADY para poder redirigir de manera más rápida al sitio web indicado. 
+> - El diseño que tendrá la página web será fácil de entender. La página contará con un diseño en particular que facilitará al usuario el manejo de la misma. 
+> - Tendrá una sección para quejas o sugerencias ante fallos de la página o errores de la misma. El sitio web tendrá un apartado especificado donde los usuarios podrán escribir una queja o una sugerencia para el sitio. 
+> - El sitio web debe de funcionar correctamente con los recursos existentes.
+.
 ## Requerimientos no funcionales
 ### Atributos de calidad
 
